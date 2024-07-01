@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Development Projects
 - 📫 How to reach me : suryanshrao01@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I share the same birthday with Ronaldo
+- ⚡ Fun fact: I share the same birthday as Ronaldo
 
 <!---
 suryanshrao/suryanshrao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
